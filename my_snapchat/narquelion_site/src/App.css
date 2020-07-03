@@ -1,0 +1,150 @@
+@font-face {
+  font-family: 'julius_sans_oneregular';
+  src: url('/assets/fonts/juliussansone-regular-webfont.eot');
+  src: url('/assets/fonts/juliussansone-regular-webfont.eot?#iefix') format('embedded-opentype'),
+  url('/assets/fonts/juliussansone-regular-webfont.woff2') format('woff2'),
+  url('/assets/fonts/juliussansone-regular-webfont.woff') format('woff'),
+  url('/assets/fonts/juliussansone-regular-webfont.ttf') format('truetype'),
+  url('/assets/fonts/juliussansone-regular-webfont.svg#julius_sans_oneregular') format('svg');
+  font-style: normal;
+}
+
+body {
+  background-color: #b0CC99;
+  height: 100%;
+}
+
+h1 {
+  font-weight: normal;
+font-family: "julius_sans_oneregular";
+margin-top: 60px;
+
+margin-bottom: 5%;
+font-size: 60px;
+text-align: center;
+color: #89725B;
+text-shadow: 2px 2px 1px #F6E8B1;
+}
+
+.change {
+  font-family: "JuliusSansOne";
+  color: #6A5036;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.button {
+width: 30%;
+margin-top: 50px;
+border-radius: 25px;
+background-color: #F6E8B1;
+text-align: center;
+padding-top: 5px;
+padding-bottom: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+  border: none;
+  box-shadow: 2px 1px 3px rgba(103, 126, 82, 0.7);
+  font-size: 17px;
+  cursor: pointer;
+  color: #89725B;
+  margin-bottom: 15px;
+}
+
+.form-deco{
+  margin-left: 80%;
+  margin-top: -2%;
+  margin-bottom: 2%;
+}
+.form-snap{
+  margin-left: 5%;
+  margin-top: -3.6%;
+  margin-bottom: 2%;
+}
+.deco {
+  border-radius: 25px;
+  background-color: #F6E8B1;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+  border: none;
+  box-shadow: 2px 1px 3px rgba(103, 126, 82, 0.7);
+  font-size: 17px;
+  cursor: pointer;
+  color: #89725B;
+  margin: auto;
+  text-align: center;
+}
+.snap {
+  border-radius: 25px;
+  background-color: #F6E8B1;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+  border: none;
+  box-shadow: 2px 1px 3px rgba(103, 126, 82, 0.7);
+  font-size: 17px;
+  cursor: pointer;
+  color: #89725B;
+  margin: auto;
+  text-align: center;
+}
+
+
+.form_inscrip {
+  margin: auto;
+  width: 20%;
+  text-align: center;
+}
+
+.form-control {
+  padding: 10px;
+  background-color: #677E52;
+  color: #F6E8B1;
+  border: none;
+  margin-bottom: 7%;
+  font-size: 17px;
+}
+
+.form-control:focus {
+  background-color: rgba(103, 126, 82, 0.5);
+  border-bottom: 2px solid #89725B;
+}
+
+.title {
+  background-color: rgba(246, 232, 177, 0.8);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 4%;
+  color: #89725B;
+  text-align: center;
+  font-size: 25px;
+}
+
+.ligne {
+  margin-top: 5px;
+  color: #89725B;
+  border-left: 4px solid #677E52;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  background-color: #F6E8B1;
+  cursor: pointer;
+}
+
+.bloc {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.cam {
+  margin: auto;
+  width: 30%;
+  text-align: center;
+  margin-bottom: 2%;
+}
